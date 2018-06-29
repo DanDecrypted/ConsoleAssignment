@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\bin\Debug\ConsoleAssignment.Core.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\bin\Debug\ConsoleAssignment.Core.pdb
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\obj\Debug\ConsoleAssignment.Core.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\obj\Debug\ConsoleAssignment.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\obj\Debug\ConsoleAssignment.Core.csproj.CopyComplete
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\obj\Debug\ConsoleAssignment.Core.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Core\obj\Debug\ConsoleAssignment.Core.pdb

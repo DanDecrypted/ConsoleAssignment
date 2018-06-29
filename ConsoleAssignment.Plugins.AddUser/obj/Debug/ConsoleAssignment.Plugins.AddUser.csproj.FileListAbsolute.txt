@@ -1,0 +1,11 @@
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\bin\Debug\ConsoleAssignment.Plugins.AddUser.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\bin\Debug\ConsoleAssignment.Plugins.AddUser.pdb
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\bin\Debug\ConsoleAssignment.Core.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\bin\Debug\ConsoleAssignment.Core.pdb
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\obj\Debug\ConsoleAssignment.Plugins.AddUser.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\obj\Debug\ConsoleAssignment.Plugins.AddUser.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\obj\Debug\ConsoleAssignment.Plugins.AddUser.csproj.CopyComplete
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\obj\Debug\ConsoleAssignment.Plugins.AddUser.dll
+C:\Users\Dan\Documents\Visual Studio 2017\Projects\ConsoleAssignment\ConsoleAssignment.Plugins.AddUser\obj\Debug\ConsoleAssignment.Plugins.AddUser.pdb

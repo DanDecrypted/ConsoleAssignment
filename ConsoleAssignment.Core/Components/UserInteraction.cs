@@ -37,5 +37,10 @@ namespace ConsoleAssignment.Core
                 userInteraction = (IUserInteraction)ci.Invoke(new Object[] { });
             }
         }
+
+        public static void InputLoop()
+        {
+            userInteraction.InputLoop();
+        }
     }
 }

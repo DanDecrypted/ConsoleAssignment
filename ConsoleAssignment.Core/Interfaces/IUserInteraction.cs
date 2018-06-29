@@ -5,5 +5,6 @@
         void ShowMessage(string message);
         string ReadMessage();
         string PromptResponse(string message);
+        void InputLoop();
     }
 }

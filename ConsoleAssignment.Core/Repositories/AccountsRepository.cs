@@ -83,9 +83,6 @@ namespace ConsoleAssignment.Core
             return exists;
         }
 
-        public static bool AccountExists(Account account)
-        {
-            return AccountExists(account.Username);
-        }
+
     }
 }

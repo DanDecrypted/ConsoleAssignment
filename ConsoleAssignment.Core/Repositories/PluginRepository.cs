@@ -30,5 +30,15 @@ namespace ConsoleAssignment.Core
             }
             return Commands.Count;
         }
+
+        public static void DisplayLoadedPlugins()
+        {
+            UserInteraction.ShowMessage(String.Format("Loaded {0} command plugins\n\r", Commands.Count));
+            foreach (ICommandPlugin plugin in Commands)
+            {
+                IDescribable description = (IDescribable)plugin;
+                UserInteraction.ShowMessage(String.Format($"{description.GetName()}\n\r{description.GetDescription()}\n\r-----------\n\r"));
+            }
+        }
     }
 }
